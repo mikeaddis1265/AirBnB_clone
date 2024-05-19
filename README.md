@@ -263,7 +263,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Ayomide Suara</summary>
+    <summary>Rodas Getachew</summary>
     <ul>
     <li><a href="https://github.com/Rodi122">Github</a></li>
     <li><a href="getachewrodas39@gmail.com">e-mail</a></li>
